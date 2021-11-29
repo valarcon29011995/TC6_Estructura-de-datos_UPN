@@ -1,0 +1,7 @@
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\obj\Debug\TC6.csproj.AssemblyReference.cache
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\obj\Debug\TC6.csproj.CoreCompileInputs.cache
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\bin\Debug\TC6.exe.config
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\bin\Debug\TC6.exe
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\bin\Debug\TC6.pdb
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\obj\Debug\TC6.exe
+D:\UPN-Estructura\ESTRUCTURA DE DATOS\TC´s\TC6\TC6\TC6\obj\Debug\TC6.pdb
